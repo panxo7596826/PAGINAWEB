@@ -1,0 +1,22 @@
+h1{
+  text-align: center;
+  }
+
+  td{
+    background-color: black;
+    height: 100px;
+    width: 100px;
+  }
+
+  table{
+    margin: auto; /*con auto el elemento queda centrado dentro de la maquina*/
+  }
+.verde{
+  background-color: #62C421;
+}
+.gris{
+  background-color:#ADB2AA;
+}
+.azul{
+  background-color: #366CC9;
+}
